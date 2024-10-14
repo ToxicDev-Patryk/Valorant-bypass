@@ -10,3 +10,7 @@ also i upgraded that bypass and wrote it in c++
 how to use it in c++?
 
 make new project on VS add main.cpp as main file or just copy the fucking source code then compile it as x64 release when you get the exe use some packer like UPX or other shit and boom you have the bypass or you can just simply get it fully working version from releases on this repo (;
+
+## Compilation (extra)
+
+to compile it you will need jsoncpp lib so just get vcpkg and use this command to download it `vcpkg install jsoncpp`
